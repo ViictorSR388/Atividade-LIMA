@@ -1,0 +1,102 @@
+header {
+    background-color: white;
+    display: flex;
+    justify-content: space-between;
+    border-bottom: solid 1px;
+}
+#logo {
+    background-color: white;
+    width: 190px;
+    height: 100px;
+}
+#head {
+    margin: 0%;
+}
+nav {
+    margin-top: 30px;
+    margin-right: 50px;
+}
+
+section {
+    background-color: rgb(229, 234, 235);
+}
+ul {
+    margin-top: 25px;
+    display: inline-flex;
+}
+ul a {
+    text-decoration: none;
+    color: #000;
+    padding: 10px;
+}
+ul a:hover {
+    color: #335da1;
+}
+
+
+section {
+    color: #335da1;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+div {
+    background-color: white;
+    border-radius: 10%;
+    margin: 5%;
+    text-align: center;
+}
+#titulo {
+    font-size: 50px;
+}
+
+footer{
+    background-color: #352da0;
+    display: flex;
+    justify-content: space-around;
+    color: white;
+}
+#Texto{
+    background-color: #352da0;
+    text-align: left;
+    color: white;
+    max-height: 150px;
+    margin-top: 120px;
+}
+#GIF{
+    margin-top: 150px;
+    width: 200px;
+    height: 150px;
+    margin-top: 100px; 
+}
+#gif {
+    background-color: #352da0;
+    max-height: 150px;
+    margin-top: 100px;
+}
+#Redes{
+    background-color: #352da0;
+    display: inline-block;
+    max-height: 150px;
+    margin-top: 110px;
+}
+#R1{
+    width: 40px;
+    height: 40px;
+    margin: 10px;
+}
+#R2{
+    width: 40px;
+    height: 40px;
+    margin: 10px;
+}
+#R3{
+    width: 40px;
+    height: 40px;
+    margin: 10px;
+}
+#R4{
+    width: 40px;
+    height: 40px;
+    margin: 10px;
+}
